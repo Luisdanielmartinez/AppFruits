@@ -1,0 +1,15 @@
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\bin\Debug\netstandard2.0\AppExoticFruits.deps.json
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\bin\Debug\netstandard2.0\AppExoticFruits.dll
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\bin\Debug\netstandard2.0\ref\AppExoticFruits.dll
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\bin\Debug\netstandard2.0\AppExoticFruits.pdb
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\obj\Debug\netstandard2.0\AppExoticFruits.csprojAssemblyReference.cache
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\obj\Debug\netstandard2.0\Views\MarketPage.xaml.g.cs
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\obj\Debug\netstandard2.0\AppExoticFruits.AssemblyInfoInputs.cache
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\obj\Debug\netstandard2.0\AppExoticFruits.AssemblyInfo.cs
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\obj\Debug\netstandard2.0\AppExoticFruits.dll
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\obj\Debug\netstandard2.0\ref\AppExoticFruits.dll
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\obj\Debug\netstandard2.0\AppExoticFruits.pdb
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\obj\Debug\netstandard2.0\AppExoticFruits.csproj.CoreCompileInputs.cache
+C:\Users\Luis Daniel\source\repos\AppExoticFruits\AppExoticFruits\AppExoticFruits\obj\Debug\netstandard2.0\XamlC.stamp
